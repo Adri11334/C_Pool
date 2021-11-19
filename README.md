@@ -15,7 +15,7 @@ Première partie de la fameuse piscine C pour débuter la première année à Ep
 >- **Promotion:** 2026
 >- **Campus:** Bordeaux
 
-Code redigé selon la norme Epitech (promo 2026).<br><br>
+Code rédigé selon la norme Epitech (promo 2026).<br><br>
 Recopier ce repo revient au vol de code.<br>
 Autrement dit, -42<br><br>
 Essayez de faire votre piscine avec votre promo et des man, pas internet !
